@@ -1,0 +1,5 @@
+The reason you could not download your project was because it was a “checkpoint”, not a project. The solution I came up with was just to download a previous version of the app, but it did not work exactly as I suspected so I am going to try again as soon as I can. 
+
+I really liked the design of your app - it was clean and easy to understand what the various numbers were supposed to do. Having an easy interface to use is a huge part of having a successful project, so good job getting that done. 
+
+I could not find anything immediately wrong with your blocks editor, so hopefully my comment of “great job having clean code” will not change once I figure out how to download your project. Great job with this - I like how you took the challenge and ran with it. 
